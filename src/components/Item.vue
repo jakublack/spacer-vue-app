@@ -30,8 +30,12 @@ export default {
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat;
-    width: 300px;
-    height: 300px;
+    width: 40vw;
+    height: 250px;
+
+    @media (min-width: 768px) {
+        width: 25vw;
+    }
 }
 
 </style>
