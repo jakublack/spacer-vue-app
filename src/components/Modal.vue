@@ -102,11 +102,12 @@ export default {
 
     .photo {
         width: 100%;
-        height: auto;
+        height: 100%;
         background-color: #000;
 
         img {
             width: 100%;
+            height: 100%;
         }
     }
 
@@ -115,7 +116,7 @@ export default {
         flex-direction: row;
         
         .photo {
-            min-width: 50%;
+            width: 50%;
             margin-right: 20px;
         }
         
