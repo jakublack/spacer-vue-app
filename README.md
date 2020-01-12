@@ -9,8 +9,6 @@ npm install
 npm run serve
 ```
 
-link: <https://spacer-nasa.netlify.com>
-
 
 ##### Author Jakub
 
